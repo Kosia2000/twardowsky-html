@@ -1,0 +1,109 @@
+body{
+    background: linear-gradient(30deg, #CD853F, 	 #FFFFE0	);
+}
+
+.top-padding-1{
+    padding-top: 1px !important;
+}
+
+.top-padding{
+    padding-top: 200px !important;
+}
+
+.bg-light{
+    background-color: darkbrown !important;
+}
+
+.back .row{    
+    background-image: linear-gradient(to bottom, rgba(0,0,0,0.6) 0%,rgba(0,0,0,0.6) 100%), url("../img/logo3.jpeg");
+    background-size: cover;
+    padding-top: 250px;
+
+}
+
+
+.logo{
+    width: 150px;
+}
+
+.nav-link {
+    color: black !important;
+    font-weight:bold;
+}
+
+.nav-link:hover{
+    color: red !important;
+    }
+
+.nav-item{
+    font-size: 20px;
+}
+
+.section .container h1 {
+    font-size: 6vmin;
+    padding-top: 14vmin;
+  }
+  
+  .section .team {
+    padding: 10vmin 4vmin;
+  }
+  
+  .section .card .card-text {
+    padding: 0.5em;
+  }
+  
+  .section .card-body > a {
+    font-size: 1.5em;
+  }
+  
+  .section .carousel-item {
+    padding-left: 3rem;
+  }
+  
+  .border-radius {
+    border-radius: 340px;
+    width: 60%;
+  }
+
+ li{
+   list-style: none;
+ }
+
+  .counter{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  }
+
+  .p-y-2{
+    padding-top: 28px;
+    padding-bottom: 28px;
+  }
+
+  .m-t-1{
+    margin-top:18px;
+  }
+
+  .main_counter_area .main_counter_content .single_counter{
+    width: 200px;
+    height: 200px;
+    background: darkgoldenrod;
+    color: #fff;
+  }
+
+  .main_counter_area .main_counter_content .single_counter i{
+    font-size: 36px;
+  }
+
+.container-fluid{
+  font-family: 'Alice', serif;
+  font-size: 20px !important;
+}
+
+.navbar{
+  background-image: url('../img/miod22.jpeg'); 
+  background-size: cover;
+  width: 100%;
+}
+

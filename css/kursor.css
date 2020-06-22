@@ -1,0 +1,10 @@
+.cursor{
+    width: 30px;
+    height: 30px;
+    border: 2px solid #ffff;
+    /*background: #lalala;*/
+    border-radius: 50%;
+    position :absolute;
+    transition-duration: 100ms;
+    z-index: 10000;
+}
