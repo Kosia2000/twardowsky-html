@@ -51,7 +51,7 @@
                             </div>
 
                             <div style = "color: #777">Masz już konto?
-                                <a href="../index.php" class = "login-link">Zaloguj się</a>
+                                <a href="../login.php" class = "login-link">Zaloguj się</a>
                             </div>
                          </form>
                     </div>

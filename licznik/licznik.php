@@ -1,6 +1,6 @@
 	<?php 
 	
-	$con = mysqli_connect("localhost", "user_02", "**********", "konta");
+	$con = mysqli_connect("localhost", "user", "**********", "konta");
 
 	$user_ip = $_SERVER['REMOTE_ADDR'];
 

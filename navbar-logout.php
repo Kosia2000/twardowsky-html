@@ -1,0 +1,1 @@
+<a class="nav-link text-light font-weight-bold px-3" href="logowanie/wyloguj.php">Wyloguj się</a>

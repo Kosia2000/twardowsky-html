@@ -1,5 +1,9 @@
 	 <?php
-        session_start();
+        
+		if(!isset($_SESSION)) 
+		{ 
+			session_start(); 
+		} 
 		if(isset($_POST['loguj']))
 		{
             include("../config.php");
@@ -15,7 +19,7 @@
                 $message = "Zalogowano";
                 echo "<script type='text/javascript'>alert('$message');</script>";
 				
-                header('Location: strona/main.php');
+                header('Location: index.php');
 			}
 			else
 			{

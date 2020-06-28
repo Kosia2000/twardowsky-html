@@ -2,6 +2,16 @@ body{
     background: linear-gradient(30deg, #CD853F, 	 #FFFFE0	);
 }
 
+article{
+  text-align:justify; 
+  text-justify:inter-word;
+  padding-bottom: 3em;
+}
+
+h3{
+  text-align:center;
+}
+
 .top-padding-1{
     padding-top: 1px !important;
 }
@@ -57,7 +67,7 @@ body{
   }
   
   .section .carousel-item {
-    padding-left: 3rem;
+    padding-left: 0rem;
   }
   
   .border-radius {
